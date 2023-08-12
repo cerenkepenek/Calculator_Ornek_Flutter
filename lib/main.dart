@@ -120,8 +120,8 @@ class _CalculatorState extends State<Calculator> {
                         color: Colors.red,
                       ),
                       alignment: Alignment.center,
-                      width: 100,
-                      height: 100,
+                      width: 75,
+                      height: 75,
                       child: Text(
                         sonuc.toString(),
                         style: TextStyle(color: Colors.white, fontSize: 50),
